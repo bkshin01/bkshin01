@@ -41,7 +41,7 @@
 
 <div align="center">
   
-  ![imshinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshinwoo)
+  ![imshinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinbobo)
 </div>
 
 <div align="center">
