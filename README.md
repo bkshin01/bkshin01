@@ -1,12 +1,11 @@
 <p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ShinBobo&fontSize=70" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=b.k.shin&fontSize=70" /><br>
   <a href="https://velog.io/@takeon/posts" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
 </p><br>
 
 
 <p align="center">
   <Strong>👋 Hi there 👋</Strong><br>
-  🧦 I'm Bokyung Shin.<br>
   🔭 I’m software engineering student at EWU.<br>
   🌱 I’m currently learning about Data Engineering.
 </p><br>
@@ -41,7 +40,7 @@
 
 <div align="center">
   
-  ![imshinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinbobo)
+  ![bkshin01's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkshin01)
 </div>
 
 <div align="center">
