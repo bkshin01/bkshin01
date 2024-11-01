@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=b.k.shin&fontSize=70" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=bkshin&fontSize=70" /><br>
   <a href="https://velog.io/@takeon/posts" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
 </p><br>
 
