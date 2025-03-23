@@ -39,11 +39,6 @@
 </p><br>
 
 <div align="center">
-  
-  ![bkshin01's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkshin01)
-</div>
-
-<div align="center">
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=musk82155)](https://solved.ac/musk82155)
 </div>
