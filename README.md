@@ -13,8 +13,8 @@
     <Strong>📧 Email 📧</Strong><br>
     musk82155@gmail.com<br><br>
     <Strong>📑 Protfolio 📑</Strong><br>
-    <a href="https://github/bkshin01/protfolio" target="_blank">〰️ Markdown Version. 2503 〰️</a><br>
-    <a href="https://github/bkshin01/protfolio" target="_blank">〰️ PDF Version. 2503 〰️</a>
+    <a href="https://github.com/bkshin01/protfolio" target="_blank">〰️ Markdown Version. 2503 〰️</a><br>
+    <a href="https://github.com/bkshin01/protfolio" target="_blank">〰️ PDF Version. 2503 〰️</a>
   </p><br>
 
 ## ⚒️ Tech Stack ⚒️
@@ -56,5 +56,5 @@
   <br>
 
   <Strong>🧮 Computer Science 🧮</String><br>
-  <a href="https://github/bkshin01/CSstudy" target="_blank">〰️ Github CS Study Log 〰️</a><br>
+  <a href="https://github.com/bkshin01/CSstudy" target="_blank">〰️ Github CS Study Log 〰️</a><br>
   <a href="https://velog.io/@takeon/series/CSstudy" target="_blank">〰️ Velog CS Study Log 〰️</a><br>
