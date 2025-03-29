@@ -13,7 +13,7 @@
     <Strong>📧 Email 📧</Strong><br>
     musk82155@gmail.com<br><br>
     <Strong>📑 Protfolio 📑</Strong><br>
-    <a href="https://github.com/bkshin01/portfolio" target="_blank">〰️ ver 25.03 〰️</a><br>
+    <a href="https://github.com/bkshin01/portfolio" target="_blank">〰️ ver 2503 〰️</a><br>
   </p><br>
 
 ## ⚒️ Tech Stack ⚒️
