@@ -51,7 +51,7 @@
   [〰️ Coding Test Log 〰️](https://github.com/bkshin01/Algorithm)
 
   <Strong>📢 Top Languages 📢</Strong><br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy2653&layout=compact&theme=tokyonight)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkshin01&layout=compact&theme=tokyonight)  
   <br>
 
   <Strong>🧮 Computer Science 🧮</String><br>
