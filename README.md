@@ -12,8 +12,8 @@
   <p align="center">
     <Strong>📧 Email 📧</Strong><br>
     musk82155@gmail.com<br><br>
-    <Strong>📑 Protfolio 📑</Strong><br>
-    <a href="https://github.com/bkshin01/portfolio" target="_blank">〰️ ver 2503 〰️</a><br>
+    <Strong>📑 Portfolio 📑</Strong><br>
+    <a href="https://github.com/bkshin01/portfolio" target="_blank">〰️ ver 2504 〰️</a><br>
   </p><br>
 
 ## ⚒️ Tech Stack ⚒️
